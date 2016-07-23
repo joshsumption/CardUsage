@@ -1,0 +1,17 @@
+CustomerNumber,CustomerName,Type,Card,Qty,Date,Tech
+123456,UnitedHealth Group,Mastercard,Oberthur,5,1/2/2016,Dawn
+123483,US Bancorp,Mastercard,Oberthur,2,1/6/2016,Grace
+123510,3M,Mastercard,Oberthur,3,2/1/2016,Roy
+123537,Medtronic,Mastercard,Oberthur,5,2/2/2016,Lee
+123564,Ameriprise Financial,Mastercard,Oberthur,4,2/3/2016,Anthony
+123591,General Mills,Mastercard,Oberthur,8,3/16/2016,Francis
+123618,Ecolab,Mastercard,Kona,6,1/7/2016,Bert
+123645,Xcel Energy,Mastercard,Kona,4,1/8/2016,Brandi
+123672,Target,Visa,Kona,2,2/1/2016,Connie
+123699,Best Buy,Visa,Kona,3,3/1/2016,Grant
+123726,Mosaic,Visa,Kona,1,3/4/2016,Dawn
+123753,St. Jude Medical,Visa,CPI,2,4/1/2016,Grace
+123780,CH Robinson Worldwide,Visa,CPI,5,5/16/2016,Roy
+123807,Polaris Industries,AMEX,CPI,3,3/1/2016,Lee
+123834,Supervalu,DPAS,CPI,4,3/2/2016,Anthony
+123861,Shutterfly,IndusInd,CPI,4,1/1/2016,Francis
